@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city">City</string>
+    <string name="temperature">22.22ºC</string>
+    <string name="summary">Summary</string>
+    <string name="details">Details:</string>
+    <string name="humidity">Humidity</string>
+    <string name="maxTemp">Max Temp.</string>
+    <string name="minTemp">Min Temp.</string>
+    <string name="pressure">Pressure</string>
+    <string name="windSpeed">Wind Speed</string>
+    <string name="placeholder">0.00</string>
+    <string name="description">Add City Button</string>
+    <string name="search">Enter City Name</string>
+</resources>
